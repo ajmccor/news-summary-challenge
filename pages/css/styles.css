@@ -1,0 +1,20 @@
+h2  {
+    color: rgb(68, 1, 155);
+    font-size: 2em;
+    margin-bottom: .3em;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  body {
+      background-color: rgb(170, 231, 255);
+      /* background: linear-gradient(180deg, #c0ebff 60%, #3fa2ff 60%); */
+  }
+  
+  .centerCell {
+    text-align: center;
+  }
+
+  
